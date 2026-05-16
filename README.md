@@ -57,8 +57,8 @@ This project is an integrated object detection model specifically designed to id
 
 ### AI Chatbot Integration
 *An intelligent chatbot implementation for automated responses.*
-* **Details:** Integrated an AI-driven chatbot to handle user queries and streamline communication. *(Note: You can update this line with exactly what your chatbot does!)*
-
+* **Details:** Integrated an AI-driven chatbot to handle user queries and streamline communication.
+* 
 ## Education & Certifications
-* **Polytechnic University of the Philippines - Binan Campus:** Bachelor of Science in Information Technology (Expected 2026). Active member of the AWS Cloud Club.
+* **Polytechnic University of the Philippines - Binan Campus:** Bachelor of Science in Information Technology (Expected 2027). Active member of the AWS Cloud Club.
 * **Harvard University (CS50):** Introduction to Artificial Intelligence with Python.
